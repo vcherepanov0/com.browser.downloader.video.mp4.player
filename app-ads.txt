@@ -2237,3 +2237,4 @@ rhebus.works, 8978398251, RESELLER
 smaato.com, 1100057426, DIRECT, 07bcf65f187117b4
 thunder-monetize.com, 1252316774, RESELLER
 video.unrulymedia.com, 251620492, RESELLER
+google.com, pub-4047432669050366, DIRECT, f08c47fec0942fa0
